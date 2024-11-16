@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.secure.rxbonjourLibrary</groupId>
-    <artifactId>rx-bonjour-aar</artifactId>
+    <artifactId>rxbonjour-release</artifactId>
     <version>1.0.0</version>
 
     <packaging>aar</packaging>

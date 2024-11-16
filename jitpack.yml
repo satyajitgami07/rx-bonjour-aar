@@ -1,3 +1,3 @@
 install:
   FILE="-Dfile=rxbonjour-release.aar"
-  mvn install:install-file $FILE -DgroupId=com.secure.rxbonjourLibrary -DartifactId=rx-bonjour-aar -Dversion=1.0.0 -Dpackaging=aar -DpomFile=pom.xml
+  mvn install:install-file $FILE -DgroupId=com.secure.rxbonjourLibrary -DartifactId=rxbonjour-release -Dversion=1.0.0 -Dpackaging=aar -DpomFile=pom.xml
