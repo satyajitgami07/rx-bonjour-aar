@@ -8,5 +8,10 @@
     <version>1.0.0</version>
 
     <packaging>aar</packaging>
-    
+    <repositories>
+        <repository>
+            <id>jitpack</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>
 </project>
